@@ -1,5 +1,5 @@
 ---
-Tittle: Hey there! I am Olakunle Shopehin. Follow me here to see my portfolio website.
+ittle: Hey there! I am Olakunle Shopehin. 
 ---
 
 # About Me
