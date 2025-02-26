@@ -1,6 +1,8 @@
+
 ---
 tittle: Hey there! I am Olakunle Shopehin. 
 ---
+
 
 # About Me
 I am a data analyst with a knack for converting data into useful and useable insights. I am skilled in making sense out of raw data and i can work with stalk holders to get the much business insight that they require. I am proficient in google sheet, microsoft power bi, microsoft excel and sql.
