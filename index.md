@@ -1,5 +1,5 @@
 ---
-ittle: Hey there! I am Olakunle Shopehin. 
+tittle: Hey there! I am Olakunle Shopehin. 
 ---
 
 # About Me
