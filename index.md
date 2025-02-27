@@ -1,6 +1,6 @@
 
 ---
-tittle: Hey there! I am Olakunle Shopehin. 
+title: Hey there! I am Olakunle Shopehin. 
 ---
 
 
@@ -11,13 +11,14 @@ I am a data analyst with a knack for converting data into useful and useable ins
 
 
 ### Social Media Analysis
- ![Dashboard](My_Dashboard.png)
+ ![Dashboard](assets/My_Dashboard.png)
 
 This project is a social media analysis for Nexus Consulting, detailing their performance on Facebook, Instagram, and Twitter (X). Microsoft Power BI and DAX were used to visualize data and perform complex calculations, enabling insightful analysis and actionable recommendations.
 
 **Tools Used**
  - Microsoft Power BI
  - Microsoft Excel
+   
 [View Full Project](https://github.com/olakunleshopehin/social-media-analysis)
 
 # Contact Me
